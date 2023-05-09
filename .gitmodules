@@ -1,0 +1,90 @@
+[submodule "local/yulearn"]
+	path = local/yulearn
+	url = git@bitbucket.org:eaas1/moodle-local_yulearn.git
+[submodule "blocks/yulearn_dashboard"]
+	path = blocks/yulearn_dashboard
+	url = git@bitbucket.org:eaas1/moodle-block_yulearn_dashboard.git
+[submodule "blocks/yulearn_user"]
+	path = blocks/yulearn_user
+	url = git@bitbucket.org:eaas1/moodle-block_yulearn_user.git
+[submodule "auth/ppy"]
+	path = auth/ppy
+	url = git@bitbucket.org:glendonits/auth_ppy.git
+[submodule "blocks/attendance"]
+	path = blocks/attendance
+	url = git@github.com:patrickthibaudeau/moodle-block_attendance.git
+[submodule "blocks/signinsheet"]
+	path = blocks/signinsheet
+	url = git@github.com:patrickthibaudeau/moodle-block_signinsheet.git
+[submodule "blocks/quickmail"]
+	path = blocks/quickmail
+	url = git@github.com:patrickthibaudeau/moodle-block_quickmail.git
+[submodule "blocks/panopto"]
+	path = blocks/panopto
+	url = git@github.com:patrickthibaudeau/moodle-block_panopto.git
+[submodule "mod/coursecertificate"]
+	path = mod/coursecertificate
+	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate
+[submodule "admin/tool/certificate"]
+	path = admin/tool/certificate
+	url = https://github.com/moodleworkplace/moodle-tool_certificate
+[submodule "mod/scheduler"]
+	path = mod/scheduler
+	url = git@github.com:patrickthibaudeau/moodle-mod_scheduler.git
+[submodule "mod/attendance"]
+	path = mod/attendance
+	url = git@github.com:patrickthibaudeau/moodle-mod_attendance.git
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = git@github.com:patrickthibaudeau/moodle-mod_questionnaire.git
+[submodule "question/type/ordering"]
+	path = question/type/ordering
+	url = https://github.com/gbateson/moodle-qtype_ordering
+[submodule "question/type/formulas"]
+	path = question/type/formulas
+	url = https://github.com/FormulasQuestion/moodle-qtype_formulas
+[submodule "question/type/algebra"]
+	path = question/type/algebra
+	url = https://github.com/jmvedrine/moodle-qtype_algebra
+[submodule "question/type/oumultiresponse"]
+	path = question/type/oumultiresponse
+	url = https://github.com/moodleou/moodle-qtype_oumultiresponse
+[submodule "question/type/pmatch"]
+	path = question/type/pmatch
+	url = https://github.com/moodleou/moodle-qtype_pmatch
+[submodule "question/type/wordselect"]
+	path = question/type/wordselect
+	url = https://github.com/marcusgreen/moodle-qtype_wordselect
+[submodule "question/behaviour/adaptivemultipart"]
+	path = question/behaviour/adaptivemultipart
+	url = https://github.com/maths/moodle-qbehaviour_adaptivemultipart
+[submodule "course/format/menutab"]
+	path = course/format/menutab
+	url = git@github.com:patrickthibaudeau/moodle-format_menutab.git
+[submodule "lib/editor/atto/plugins/menutab"]
+	path = lib/editor/atto/plugins/menutab
+	url = git@github.com:patrickthibaudeau/moodle-atto_menutab.git
+[submodule "lib/editor/atto/plugins/panoptoltibutton"]
+	path = lib/editor/atto/plugins/panoptoltibutton
+	url = https://github.com/Panopto/Panopto-LTI-Button-For-Atto
+[submodule "lib/editor/atto/plugins/panoptobutton"]
+	path = lib/editor/atto/plugins/panoptobutton
+	url = https://github.com/Panopto/Panopto-Button-for-Atto
+[submodule "lib/editor/atto/plugins/placeholder"]
+	path = lib/editor/atto/plugins/placeholder
+	url = git@bitbucket.org:eaas1/moodle-atto_placeholder.git
+[submodule "admin/tool/orm"]
+	path = admin/tool/orm
+	url = git@github.com:patrickthibaudeau/moodle-tool_orm.git
+[submodule "course/format/grid"]
+	path = course/format/grid
+	url = https://github.com/gjb2048/moodle-format_grid
+[submodule "course/format/topcoll"]
+	path = course/format/topcoll
+	url = https://github.com/gjb2048/moodle-format_topcoll
+[submodule "local/adminer"]
+	path = local/adminer
+	url = https://github.com/grabs/moodle-local_adminer
+[submodule "theme/moove"]
+	path = theme/moove
+	url = git@github.com:patrickthibaudeau/moodle-theme_moove.git
