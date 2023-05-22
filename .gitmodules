@@ -88,3 +88,6 @@
 [submodule "theme/moove"]
 	path = theme/moove
 	url = git@github.com:patrickthibaudeau/moodle-theme_moove.git
+[submodule "repository/panopto"]
+	path = repository/panopto
+	url = https://github.com/lucisgit/moodle-repository_panopto
